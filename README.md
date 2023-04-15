@@ -26,3 +26,16 @@ Data Dictionary
 
 Analysis - Using Numpy, Pandas,  Matplot, Seaborn and Pyplot
 
+# Project 2 - Frobes Richest Athelets Analysis and Visualtion 
+
+Data Dictionary
+
+    Name: Name of the athlete.
+    Nationality: Name of the country the athlete belongs to.
+    Current Rank: Rank in the corresponding Year.
+    Previous Year Rank: Rank in in the preceding year.
+    Sport: Name of the sports that athlete played that year.
+    Year: Current year of ranking.
+    earnings ( million) : Earnings of the athlete in millions in the corresponding year.
+ 
+ Analysis - Using Numpy, Pandas,  Matplot, Seaborn and Pyplot
